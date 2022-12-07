@@ -1,5 +1,5 @@
 
-  undefined
+  ![License](https://img.shields.io/badge/License-Boost_1.0-lightblue.svg)
   # <1>
 
   ## Description
@@ -23,7 +23,8 @@
   
   ## License
   
-  Creative Commons
+  The license under use is Boost: (https://www.boost.org/LICENSE_1_0.txt)
+  
   
   ---
   

@@ -27,10 +27,10 @@ const questions = [
         message: "Provide instructions and examples for use.",
     },
     {
-        type: "list",
+        type: "rawlist",
         name: "license",
         message: "Which license would you like to use?",
-        choices: ["Apache", "Boost", "BSD", "Creative Commons"]
+        choices: ["Apache", "Boost", "BSD", "Creative Commons", ""]
     },
     {
         type: "input",
@@ -50,12 +50,12 @@ const questions = [
     {
         type: "input",
         name: "github",
-        message: "Provide examples on how to run tests for your application here.",
+        message: "Enter your GitHub username.",
     },
     {
         type: "input",
         name: "email",
-        message: "Provide examples on how to run tests for your application here.",
+        message: "What is you email?",
     },
 ];
 
